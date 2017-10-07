@@ -8,4 +8,4 @@ I keep the file here so that I may use it accross different machines without hav
 ## Notes
 ---
 
-I do not pretend to be an expert in vim - indeed, I am not. Many of the commands found here are pulled from various pages accross the internet, and I would like to kindly thank the strangers who shared their knowledge so that other such as myself could benefit from it.
+I do not pretend to be an expert in vim - indeed, I am not. Many of the commands found here are pulled from various pages accross the internet, and I would like to kindly thank the strangers who shared their knowledge so that others such as myself could benefit from it.
