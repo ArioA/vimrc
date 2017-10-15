@@ -44,6 +44,11 @@ Plugin 'surround.vim'
 " For some html5 stuff...
 " https://github.com/othree/html5.vim
 Plugin 'html5.vim'
+" %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+" Worth thinking about:
+" https://github.com/sheerun/vim-polyglot
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
