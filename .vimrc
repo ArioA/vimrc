@@ -35,6 +35,8 @@ call vundle#begin()
 " different version somewhere else.
 " Plugin 'ascenator/L9', {'name': 'newL9'}
 
+" %%%%%% HTML5 plugins %%%%%%
+
 " Handy for managing html tags
 " https://github.com/tpope/vim-surround
 Plugin 'surround.vim'
