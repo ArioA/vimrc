@@ -43,7 +43,7 @@ Plugin 'surround.vim'
 
 " For some html5 stuff...
 " https://github.com/othree/html5.vim
-Plugin 'html5.vim'
+Plugin 'othree/html5.vim'
 " %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 " Worth thinking about:
